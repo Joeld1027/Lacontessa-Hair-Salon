@@ -219,8 +219,8 @@ section p {
 footer {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    background-color: #607d8b;
+    justify-content: center;
+    background-color: #25333a;
     color: #fff;
     padding: 20px 0;
 }
@@ -357,4 +357,8 @@ footer p {
     background-position: center center;
     align-items: flex-start ;
     color: #fff;
+}
+
+.contact {
+    padding: 40px 30px !important;
 }
