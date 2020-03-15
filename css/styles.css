@@ -337,6 +337,7 @@ footer p {
     transform: scaleY(2.8);
     font-size: 34px !important;
     font-family: 'Kaushan Script', cursive !important;
+    padding: 25px;
 }
 
 .map i{
@@ -348,4 +349,5 @@ footer p {
     background-repeat:   no-repeat;
     background-position: center center;
     align-items: flex-start ;
+    color: #fff;
 }
